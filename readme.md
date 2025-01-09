@@ -79,4 +79,5 @@ The dataset used in this project consists of tweets from X (formerly known as Tw
 
 This structured methodology ensures a systematic approach to developing and evaluating the text classification model for Indonesian horror film reviews.
 
-## Result and Insight
+## Author
+Muhammad Hadi Nur Fakhri
